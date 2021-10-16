@@ -3,8 +3,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TurboHK)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![TurboHK's github stats](https://github-readme-stats.vercel.app/api?username=TurboHK&show_icons=true&hide_title=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifegpc&layout=compact&exclude_repo=lifegpc.github.io,libbluray-MSVC,libudfread-MSVC,xavs-MSVC,lzip-MSVC,bzip2-MSVC&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) 
-<details>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurboHK&layout=compact&show_icons=true&bg_color=30,ff0,0ff,00f&title_color=666&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
