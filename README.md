@@ -4,7 +4,7 @@
 
 [![TurboHK's github stats](https://github-readme-stats.vercel.app/api?username=TurboHK&show_icons=true&hide_title=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurboHK&layout=compact&show_icons=true&bg_color=30,ff0,0ff,00f&title_color=666&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurboHK&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me ? [Telegram](https://www.telegram.org/) [@TurboHK](https://t.me/TurboHK) !
 - 🇭🇰 My location? [🇭🇰](https://en.wikipedia.org/wiki/Hong_Kong)
