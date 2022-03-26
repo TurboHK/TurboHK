@@ -2,7 +2,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TurboHK)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![TurboHK's github stats](https://github-readme-stats.vercel.app/api?username=TurboHK&show_icons=true&hide_title=false&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![TurboHK's github stats](https://github-readme-stats.vercel.app/api?username=TurboHK&show_icons=true&hide_title=false&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurboHK&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
