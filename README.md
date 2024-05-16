@@ -6,8 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurboHK&layout=compact&theme=dark)](https://github.com/TurboHK/TurboHK)
 
-- 🇭🇰 My location? [🇭🇰](https://en.wikipedia.org/wiki/Hong_Kong)
-
 <!---
 TurboHK/TurboHK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
