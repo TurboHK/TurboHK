@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TurboHK&layout=compact&theme=dark)](https://github.com/TurboHK/TurboHK)
 
-<a href="https://www.buymeacoffee.com/turbohk"> <img align="left" src="[https://cdn.ko-fi.com/cdn/kofi3.png?v=3](https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png)" height="50" width="210" alt="turbohk" /></a>
+<a href="https://www.buymeacoffee.com/turbohk"> <img align="left" src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" height="50" width="210" alt="turbohk" /></a>
 
 <!---
 TurboHK/TurboHK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
