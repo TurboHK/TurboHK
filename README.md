@@ -2,6 +2,10 @@
 <table align="center">
   <td colspan="6">
     <h2><p align="center">👋 Hi, I’m @TurboHK</p></h2>
+    <p align="center">What do you want most in life? Is it money, fame or success?</p>
+    <p align="center">These things, while satisfying in the short term, cannot bring true joy and happiness.</p>
+    <p align="center">Instead of spending your whole life chasing things that won't last,</p>
+    <p align="center">choose to store up eternal treasures in heaven.</p>
   </td>
 <tbody>
   <tr>
