@@ -1,3 +1,56 @@
+
+<table align="center">
+  <td colspan="6">
+    <h2><p align="center">👋 Hi, I’m @TurboHK</p></h2>
+  </td>
+<tbody>
+  <tr>
+    <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mirror.vercel.app/api?username=TurboHK&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
+        <img height="100%" src="https://github-readme-stats-mirror.vercel.app/api?username=TurboHK&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
+      </picture>
+    </a></td>
+    <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=zetaloop&mode=weekly&theme=dark&hide_border=true&background=00000000">
+        <img height="100%" src="https://github-readme-streak-stats-mirror.vercel.app/?user=zetaloop&mode=weekly&hide_border=true&background=00000000" />
+      </picture>
+    </a></td>
+  </tr>
+</tbody><tbody>
+  <tr>
+    <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=TurboHK&theme=nord_dark&border_color=0000&bg_color=0000">
+        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=TurboHK&theme=nord_bright&border_color=0000&bg_color=0000" />
+      </picture>
+    </a></td>
+    <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=TurboHK&theme=nord_dark&border_color=0000&bg_color=0000">
+        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=TurboHK&theme=nord_bright&border_color=0000&bg_color=0000" />
+      </picture>
+    </a></td>
+    <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=TurboHK&utcOffset=8&theme=nord_dark&border_color=0000&bg_color=0000">
+        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=TurboHK&utcOffset=8&theme=nord_bright&border_color=0000&bg_color=0000" />
+      </picture>
+    </a></td>
+  </tr>
+</tbody><tbody>
+  <tr>
+    <td colspan="6"><a href="https://github.com/ryo-ma/github-profile-trophy">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TurboHK&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6&margin-w=15">
+        <img width="100%" src="https://github-profile-trophy.vercel.app/?username=TurboHK&no-bg=true&no-frame=true&row=1&column=6&margin-w=15" />
+      </picture>
+    </a></td>
+  </tr>
+</tbody></table>
+
+<!---
 - 👋 Hi, I’m @TurboHK
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TurboHK)](https://github.com/ryo-ma/github-profile-trophy)
@@ -8,7 +61,7 @@
 
 <a href="https://www.buymeacoffee.com/turbohk"> <img align="left" src="https://www.codehim.com/wp-content/uploads/2022/09/bmc-button.png" height="50" width="210" alt="turbohk" /></a>
 
-<!---
+
 TurboHK/TurboHK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
