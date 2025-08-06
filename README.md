@@ -11,14 +11,14 @@
   <tr>
     <td colspan="3"><a href="https://github.com/anuraghazra/github-readme-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mirror.vercel.app/api?username=TurboHK&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&number_format=long">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-mirror.vercel.app/api?username=TurboHK&show_icons=true&theme=synthwave&hide_border=true&bg_color=00000000&number_format=long">
         <img height="100%" src="https://github-readme-stats-mirror.vercel.app/api?username=TurboHK&show_icons=true&hide_border=true&bg_color=00000000&number_format=long" />
       </picture>
     </a></td>
     <td colspan="3"><a href="https://github.com/denvercoder1/github-readme-streak-stats">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=TurboHK&mode=weekly&theme=dark&hide_border=true&background=00000000">
-        <img height="100%" src="https://github-readme-streak-stats-mirror.vercel.app/?user=TurboHK&mode=weekly&hide_border=true&background=00000000" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=TurboHK&theme=highcontrast&hide_border=true&background=00000000">
+        <img height="100%" src="https://github-readme-streak-stats-mirror.vercel.app/?user=TurboHK&hide_border=true&background=00000000" />
       </picture>
     </a></td>
   </tr>
