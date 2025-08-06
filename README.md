@@ -26,20 +26,20 @@
   <tr>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=TurboHK&theme=nord_dark&border_color=0000&bg_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=TurboHK&theme=nord_bright&border_color=0000&bg_color=0000" />
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=TurboHK&theme=2077&border_color=0000&bg_color=0000">
+        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=TurboHK&theme=solarized&border_color=0000&bg_color=0000" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=TurboHK&theme=nord_dark&border_color=0000&bg_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=TurboHK&theme=nord_bright&border_color=0000&bg_color=0000" />
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=TurboHK&theme=2077&border_color=0000&bg_color=0000">
+        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=TurboHK&theme=solarized&border_color=0000&bg_color=0000" />
       </picture>
     </a></td>
     <td colspan="2"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=TurboHK&utcOffset=8&theme=nord_dark&border_color=0000&bg_color=0000">
-        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=TurboHK&utcOffset=8&theme=nord_bright&border_color=0000&bg_color=0000" />
+        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=TurboHK&utcOffset=8&theme=2077&border_color=0000&bg_color=0000">
+        <img height="100%" src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=TurboHK&utcOffset=8&theme=solarized&border_color=0000&bg_color=0000" />
       </picture>
     </a></td>
   </tr>
